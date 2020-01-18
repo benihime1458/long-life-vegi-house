@@ -72,3 +72,10 @@ footer.page-footer {
   width: 500px;
   height: 40px;
 }
+
+.socialmedia {
+  display: flex;
+  flex-flow: row wrap;
+  width: 75px;
+  justify-content: space-around;
+}
